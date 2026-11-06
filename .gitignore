@@ -1,0 +1,9 @@
+# Per-vault UI state (open tabs, pane layout)
+workspace.json
+workspace-mobile.json
+# Graph view layout is specific to each vault
+graph.json
+# Smart Connections index of this vault's notes
+plugins/smart-connections/.smart-env/
+.smart-env/
+.DS_Store

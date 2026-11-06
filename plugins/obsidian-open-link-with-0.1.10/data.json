@@ -1,0 +1,15 @@
+{
+  "selected": "brave",
+  "custom": {
+    "chrome": [
+      "google-chrome-stable"
+    ],
+    "brave": [
+      "brave"
+    ]
+  },
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": []
+}

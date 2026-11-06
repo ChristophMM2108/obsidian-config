@@ -1,0 +1,28 @@
+{
+  "zoomByDevice": {
+    "88eeff4e-bcde-42cf-99ef-efad05a1e3d5": {
+      "Projects/I-MED/Executive Brief - Lex Name Recognition - 25 Sep 2026.html": 140,
+      "Projects/I-MED/Executive Brief - Speaker Notes - 25 Sep 2026.html": 120
+    }
+  },
+  "scrollByDevice": {
+    "88eeff4e-bcde-42cf-99ef-efad05a1e3d5": {
+      "Projects/Agent Benchmarking/evaluation-pipeline.html": 0,
+      "Projects/I-MED/Amazon Lex - Name Extraction Experiment Design v2.html": 0.046924159629077665,
+      "Projects/I-MED/checkpoint_24_09.html": 0.6226565616274432,
+      "Projects/I-MED/Execution Plan - Lex Name Recognition Experiment.html": 0.5439162805227261,
+      "Projects/I-MED/Executive Brief - Lex Name Recognition - 25 Sep 2026.html": 0.24260355029585798,
+      "Projects/I-MED/Executive Brief - Speaker Notes - 25 Sep 2026.html": 0,
+      "Projects/I-MED/Decision Memo - Lex Slots and Configuration - 28 Sep 2026.html": 0.9688385269121813,
+      "Projects/I-MED/lex-name-recognition-experiment/docs/report/_build/report.html": 0.10499281815570238,
+      "Projects/I-MED/Production Recommendations - Lex Name Recognition - 1 Oct 2026.html": 0,
+      "Projects/Ampirical/substation-builder-spine.html": 0,
+      "Projects/Ampirical/im-ingestion-hackathon.html": 0,
+      "Projects/Ampirical/scraper-architecture.html": 0,
+      "Projects/Ampirical/scraper-run-results.html": 0,
+      "Projects/Ampirical/im-ingestion-architecture.html": 0
+    }
+  },
+  "actionsByDevice": {},
+  "bookmarksByFile": {}
+}

@@ -1,0 +1,9 @@
+.mermaid {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+.markdown-preview-view .mermaid svg {
+    max-width: 100% !important;
+    width: auto !important;
+}
+
